@@ -1,4 +1,4 @@
-# Lane-detection-method-simulation-on-PanoSim5
+# Lane-detection-simulation-on-PanoSim5
 
 This repo is for lane detection method simulation video.
 
