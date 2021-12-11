@@ -8,4 +8,4 @@ The video 'lane keeping' is simulation of lane keeping.
 
 'change lane', change the lane when a car stops and blocks way.
 
-'stop~1' and 'following~1' are stop-and-go following.
+'stop\~1' and 'following\~1' are stop-and-go following.
